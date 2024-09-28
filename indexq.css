@@ -1,0 +1,18 @@
+#myPara
+{
+    color: brown; 
+    font-weight: bold;
+}
+
+#myPara2
+{
+    color: cornflowerblue; 
+    font-weight: bold;
+}
+
+.orderedListClass
+{
+    background-color: #bd49e7;
+    margin: 5%;
+    padding: 5%;
+}
